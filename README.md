@@ -10,4 +10,4 @@ WD First Assignment
 https://github.com/TechLabs-Dusseldorf/Assignments1
 
 
-Signed by Gizem Odabas
+Signed by Gizem Odas
