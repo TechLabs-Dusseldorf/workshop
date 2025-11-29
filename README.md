@@ -8,9 +8,6 @@ Check the Files to install the installations and learn the git commands
 
 WD First Assignment
 
-<<<<<<< HEAD
 signed by tarrouche + iebo
-=======
 signed by yyyyyyyhahahahahaha
 
->>>>>>> 74316d7 (signing readme tarrouche)
