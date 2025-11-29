@@ -35,6 +35,7 @@ when working on a Task use a new branch based on YOUR_NAME_Branch
 git checkout YOUR_NAME_Branch 
 git switch -c YOUR_TASK/Feature_Title
 git push
+git branch --set-upstream-to=origin/master Iebo_Branch 
 ```
 
 ### Updating Branches
